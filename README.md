@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Hamza, I've created my Github when I was in Perth (AUS). I'm currently in Paris but based nowhere ;) Enjoy my repos!
+### Hi there 👋 My name is Hamza, I've created my Github when I was in a beautiful city named Perth (AUS). I'm currently in Paris but based nowhere ;) Enjoy my repos!
 
 <!--
 **HamzaInPerth/hamzainperth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
