@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Hamza, I'm currently in Paris but based nowhere ;) Enjoy my repos!
+### Hi there 👋 My name is Hamza but I'm not in Perth anymore ;)
 
 <!--
 **HamzaInPerth/hamzainperth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
