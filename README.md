@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Hamza but I'm not in Perth anymore ;)
-Play chess with me : https://lichess.org/@/hamzainparis
+Play chess with me : https://lichess.org/@/hamzainparis<br/>
 Text me on https://hamzainperth.github.io/#contact
 
 <!--
