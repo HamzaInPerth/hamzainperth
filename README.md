@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Hamza but I'm not in Perth anymore ;)
+### Hi there 👋 I'm not in Perth anymore ;)
 Play chess with me : https://lichess.org/@/hamzainparis<br/>
-Email me on https://hamzainperth.github.io/#contact
+Send me a message : https://hamzainperth.github.io
 
 <!--
 **HamzaInPerth/hamzainperth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
