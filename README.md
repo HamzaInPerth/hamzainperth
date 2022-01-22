@@ -2,6 +2,8 @@
 Play chess with me : https://lichess.org/@/hamzainparis<br/>
 Send me a message : https://hamzainperth.github.io
 
+<img src="https://github.com/HamzaInPerth/hamzainperth.github.io/blob/master/img/bro-monique-says-youre-dumb.jpeg" />
+
 <!--
 **HamzaInPerth/hamzainperth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
